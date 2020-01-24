@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Project Title
 
-Voting App 
+Top 5 Netflix Series of 2019 Voting App 
 
 ### Description
 
