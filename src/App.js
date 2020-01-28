@@ -18,6 +18,7 @@ function App() {
   const [state, setState] = useState(
     [
       {
+      id: 1,
       cover: 'https://m.media-amazon.com/images/M/MV5BNWNmYzQ1ZWUtYTQ3ZS00Y2UwLTlkMDctZThlOTJkMGJiNzBiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg',
       title: 'Mindhunter 2',
       year: 'August, 2019',
@@ -25,6 +26,7 @@ function App() {
       counter: 0,
     },
     {
+      id: 2,
       cover: 'https://m.media-amazon.com/images/M/MV5BZmJjM2YzOWEtOTYxYi00YjhkLTliMzgtMTA2MTc0NDQ1MDM4XkEyXkFqcGdeQXVyODY5OTk4MA@@._V1_UX182_CR0,0,182,268_AL_.jpg',
       title: 'When They See Us',
       year: 'May, 2019',
@@ -32,6 +34,7 @@ function App() {
       counter: 0,
     },
     {
+      id: 3,
       cover: 'https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/You_Season_2.jpg/220px-You_Season_2.jpg',
       title: 'You: Season 2',
       year: 'December, 2019',
@@ -39,6 +42,7 @@ function App() {
       counter: 0,
     },
     {
+      id: 4,
       cover: 'https://i.redd.it/tl2uuclwbpv11.jpg',
       title: 'The Witcher',
       year: 'December, 2019',
@@ -46,6 +50,7 @@ function App() {
       counter: 0,
     },
     {
+      id: 5,
       cover: 'https://m.media-amazon.com/images/M/MV5BODkwNmY1MjgtY2ZlNS00MWVmLWEzZTktYmMyNDQzMjlmMGY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
       title: 'Dead to Me',
       year: 'May, 2019',
