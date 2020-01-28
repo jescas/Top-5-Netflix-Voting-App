@@ -27,4 +27,4 @@ const linkCSS = {
   color: 'white'
 };
 
-export default Header;
+export default Header
