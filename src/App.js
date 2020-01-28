@@ -3,7 +3,6 @@ import Header from './Header';
 import Content from './Content.js';
 
 function App() {
-
   //sorting with map method inspired by: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
   const voting = (title) => {
     let array = []
