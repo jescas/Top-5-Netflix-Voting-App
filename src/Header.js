@@ -1,5 +1,5 @@
-import React, {Component} from 'react'
-import App from './App'
+import React, {Component} from 'react';
+import App from './App';
 
 function Header() {
   return(
@@ -27,4 +27,4 @@ const linkCSS = {
   color: 'white'
 };
 
-export default Header
+export default Header;

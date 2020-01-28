@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
-import Header from './Header'
-import Content from './Content.js'
+import Header from './Header';
+import Content from './Content.js';
 
 function App() {
 
@@ -63,4 +63,4 @@ function App() {
   )
 };
 
-export default App
+export default App;
